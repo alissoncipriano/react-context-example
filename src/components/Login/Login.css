@@ -1,0 +1,22 @@
+.Login {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 3px #c6c6c6;
+}
+.Login form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 30px;
+    border-top: 1px solid #f0f0f0;
+    padding-top: 30px;
+}
+.Login form input, .Login form button {
+    padding: 15px;
+    border: 1px solid #e1e1e1;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.Login form button {
+    cursor: pointer;
+}

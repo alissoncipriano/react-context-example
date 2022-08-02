@@ -1,0 +1,16 @@
+.Profile {
+    padding: 30px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 3px #c6c6c6;
+}
+.Profile button {
+    border: none;
+    background: none;
+    color: #5151bd;
+    font-size: 1em;
+    cursor: pointer;
+}
+.Profile button:hover {
+    text-decoration: underline;
+}
